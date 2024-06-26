@@ -44,7 +44,7 @@ function calculatesFarePrice(start, destination) {
         return "cannot travel that far"
     }
 }
-//console.log(distanceFromHqInBlocks(50));
-//console.log(distanceFromHqInFeet(50));
-//console.log(distanceTravelledInFeet(34, 38));
-console.log(calculatesFarePrice(34, 38));
+console.log(distanceFromHqInBlocks(50));
+console.log(distanceFromHqInFeet(50));
+console.log(distanceTravelledInFeet(34, 38));
+console.log(calculatesFarePrice(50, 58));
